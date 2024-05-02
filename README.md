@@ -19,7 +19,7 @@ The Inventory Management System is a Python application designed to manage inven
 1. Run the main application script:
 python main.py
 
-##Testing and Test Cases
+## Testing and Test Cases
 
 1. Run the unit test file
 python unittest.py
