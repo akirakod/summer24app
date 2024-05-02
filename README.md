@@ -21,5 +21,5 @@ The Inventory Management System is a Python application designed to manage inven
 
 ## Testing and Test Cases
 
-1. Run the unit test file
+1. Run the unit test file:
 **python unittest.py**
