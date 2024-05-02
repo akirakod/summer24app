@@ -12,14 +12,14 @@ The Inventory Management System is a Python application designed to manage inven
 - Search for parts based on specific criteria.
 
 ## Installation
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine
 
 ## Usage
 
 1. Run the main application script:
-python main.py
+**python main.py**
 
 ## Testing and Test Cases
 
 1. Run the unit test file
-python unittest.py
+**python unittest.py**
